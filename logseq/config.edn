@@ -138,7 +138,7 @@
  ;; Add your own commands to speedup.
  ;; E.g. [["js" "Javascript"]]
  :commands
- []
+ [["js" "Javascript"]]
 
  ;; Macros replace texts and will make you more productive.
  ;; For example:
