@@ -1,0 +1,12 @@
+-
+-
+- 运行报错
+	- ![Snag_11d696.png](../assets/Snag_11d696_1643894608830_0.png)
+- 安装时报错
+	- ![Snag_11f5e6.png](../assets/Snag_11f5e6_1643894616293_0.png)
+-
+- 解决方法
+	- 需要通过visualcppbuildtools_full.exe安装win10 SDK，
+	- 用vs2019等，也需要安装win10 SDK
+	  id:: 61fbd78b-a1e0-41c5-bd9c-7fec95a41095
+	- 要看一下这两种哪个大小大
