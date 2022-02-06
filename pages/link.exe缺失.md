@@ -1,12 +1,6 @@
+title:: link.exe缺失
+
+- ![Snag_11d696_1643894608830_0.png](../assets/Snag_11d696_1643894608830_0_1644162479983_0.png)
+- ![Snag_11f5e6_1643894616293_0.png](../assets/Snag_11f5e6_1643894616293_0_1644162511817_0.png)
 -
--
-- 运行报错
-	- ![Snag_11d696.png](../assets/Snag_11d696_1643894608830_0.png)
-- 安装时报错
-	- ![Snag_11f5e6.png](../assets/Snag_11f5e6_1643894616293_0.png)
--
-- 解决方法
-	- 需要通过visualcppbuildtools_full.exe安装win10 SDK，
-	- 用vs2019等，也需要安装win10 SDK
-	  id:: 61fbd78b-a1e0-41c5-bd9c-7fec95a41095
-	- 要看一下这两种哪个大小大
+- win10系统，需要安装 Microsoft C++ 生成工具 full版中 win10 SDK
