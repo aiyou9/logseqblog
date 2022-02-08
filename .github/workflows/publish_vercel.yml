@@ -24,4 +24,4 @@ jobs:
           VERCEL_PROJECT_ID: ${{secrets.VERCEL_PROJECT_ID}}
         run: |
           npm i -g vercel
-          vercel --token=${{ secrets.VERCEL_TOKEN }} --prod --scope logseqblog www
+          vercel --token=${{ secrets.VERCEL_TOKEN }} --prod --scope aiture www
