@@ -1,0 +1,23 @@
+- [[同步]]
+- 收集文献
+- [[黑暗主题]]
+-
+- 插件使用
+  id:: 6200dc69-af73-465c-9970-91ad9ca72cbb
+	- [[Zotfile]]
+	- [[zotero-shortdoi]]
+	- [[translators_CN]]
+	- [[zotero-scholar-citations]]
+	- [[zotero-mdnotes]]
+	- [[zotero-connectors]]
+	- [[zotero-scihub]]
+	- [[ZoteroQuickLook]]
+	- [[zotero-better-bibtex]]
+- 工具集
+	- https://github.com/bwiernik/zotero-tools
+	-
+	-
+	-
+	-
+	-
+-

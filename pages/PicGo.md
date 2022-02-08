@@ -1,0 +1,2 @@
+- gitHub中发布PicGo的release版本](https://github.com/Molunerfinn/PicGo/releases)
+- 搭建GitHub图床](https://blog.csdn.net/weixin_42875245/article/details/108654079)

@@ -1,0 +1,1 @@
+- 项目地址：https://github.com/l0o0/translators_CN

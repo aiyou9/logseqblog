@@ -1,0 +1,3 @@
+- 项目地址：https://github.com/retorquere/zotero-better-bibtex
+- 使用手册： https://retorque.re/zotero-better-bibtex/installation/
+-
