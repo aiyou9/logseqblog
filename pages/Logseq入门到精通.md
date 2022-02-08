@@ -66,6 +66,8 @@ tags:: typeface
 	-
 - 👉P15 logseq与其他软件共库使用
 - 👉P15 logseq构建工作流
+	- [[网络资源学习]]
+	-
 - 👉P16 logseq的使用理念
 	- [[使用理念]]
 -
