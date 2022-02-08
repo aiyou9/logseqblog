@@ -11,23 +11,23 @@
   :block/created-at 1641967503322,
   :block/updated-at 1641967503322}
  {:block/name "[calibre",
-  :block/created-at 1644347324740,
-  :block/updated-at 1644347324740}
+  :block/created-at 1644347608669,
+  :block/updated-at 1644347608669}
  {:block/name "[typora官网]()",
-  :block/created-at 1644347324740,
-  :block/updated-at 1644347324740}
+  :block/created-at 1644347608669,
+  :block/updated-at 1644347608669}
  {:block/name "[workflowy官网]()",
-  :block/created-at 1644347324740,
-  :block/updated-at 1644347324740}
+  :block/created-at 1644347608669,
+  :block/updated-at 1644347608669}
  {:block/name "[xmind官网]()",
-  :block/created-at 1644347324740,
-  :block/updated-at 1644347324740}
+  :block/created-at 1644347608669,
+  :block/updated-at 1644347608669}
  {:block/name "[印象笔记官网]()",
-  :block/created-at 1644347324740,
-  :block/updated-at 1644347324740}
+  :block/created-at 1644347608667,
+  :block/updated-at 1644347608667}
  {:block/name "[滴答清单官网]()",
-  :block/created-at 1644347324740,
-  :block/updated-at 1644347324740}
+  :block/created-at 1644347608669,
+  :block/updated-at 1644347608669}
  {:block/name "_js_ _javascript_",
   :block/created-at 1644164493225,
   :block/updated-at 1644164493225}
@@ -44,8 +44,8 @@
   :block/created-at 1641967503322,
   :block/updated-at 1641967503322}
  {:block/name "anki",
-  :block/created-at 1644347324740,
-  :block/updated-at 1644347324740}
+  :block/created-at 1644347608669,
+  :block/updated-at 1644347608669}
  {:block/name "assemblyscript",
   :block/created-at 1644164493226,
   :block/updated-at 1644164493226}
@@ -62,8 +62,8 @@
   :block/created-at 1644164493226,
   :block/updated-at 1644164493226}
  {:block/name "bookxnote",
-  :block/created-at 1644347324740,
-  :block/updated-at 1644347324740}
+  :block/created-at 1644347608669,
+  :block/updated-at 1644347608669}
  {:block/name "c",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
@@ -173,20 +173,20 @@
   :block/created-at 1641967503322,
   :block/updated-at 1641967503322}
  {:block/name "logseq与pdf",
-  :block/created-at 1644347324740,
-  :block/updated-at 1644347324740}
+  :block/created-at 1644347608667,
+  :block/updated-at 1644347608667}
  {:block/name "logseq主题",
-  :block/created-at 1644347324740,
-  :block/updated-at 1644347324740}
+  :block/created-at 1644347608667,
+  :block/updated-at 1644347608667}
  {:block/name "logseq入门到精通",
   :block/created-at 1644164493225,
   :block/updated-at 1644337491615}
  {:block/name "logseq发布成网页博客",
-  :block/created-at 1644347324740,
-  :block/updated-at 1644347324740}
+  :block/created-at 1644347608667,
+  :block/updated-at 1644347608667}
  {:block/name "logseq插件",
-  :block/created-at 1644347324740,
-  :block/updated-at 1644347324740}
+  :block/created-at 1644347608669,
+  :block/updated-at 1644347608669}
  {:block/name "logseq相关资源收集",
   :block/created-at 1644164493225,
   :block/updated-at 1644164493225}
@@ -212,14 +212,14 @@
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
  {:block/name "notepad++",
-  :block/created-at 1644347324740,
-  :block/updated-at 1644347324740}
+  :block/created-at 1644347608669,
+  :block/updated-at 1644347608669}
  {:block/name "now",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
  {:block/name "obsidian",
-  :block/created-at 1644347324740,
-  :block/updated-at 1644347324740}
+  :block/created-at 1644347608669,
+  :block/updated-at 1644347608669}
  {:block/name "pengx17",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
@@ -227,14 +227,14 @@
   :block/created-at 1641967503322,
   :block/updated-at 1641967503322}
  {:block/name "picgo",
-  :block/created-at 1644347324740,
-  :block/updated-at 1644347324740}
+  :block/created-at 1644347608669,
+  :block/updated-at 1644347608669}
  {:block/name "playwright",
   :block/created-at 1642000567387,
   :block/updated-at 1642000567387}
  {:block/name "query使用入门",
-  :block/created-at 1644347324740,
-  :block/updated-at 1644347324740}
+  :block/created-at 1644347608669,
+  :block/updated-at 1644347608669}
  {:block/name "rust",
   :block/created-at 1644164493226,
   :block/updated-at 1644164493226}
@@ -269,11 +269,11 @@
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
  {:block/name "translators_cn",
-  :block/created-at 1644347324740,
-  :block/updated-at 1644347324740}
+  :block/created-at 1644347608669,
+  :block/updated-at 1644347608669}
  {:block/name "tue, 2022/02",
-  :block/created-at 1644347324740,
-  :block/updated-at 1644347324740}
+  :block/created-at 1644347608669,
+  :block/updated-at 1644347608669}
  {:block/name "tue, 2022/02/08",
   :block/created-at 1644278400000,
   :block/updated-at 1644278400000}
@@ -299,8 +299,8 @@
   :block/created-at 1644164493226,
   :block/updated-at 1644164493226}
  {:block/name "wed, 2022/02",
-  :block/created-at 1644347324740,
-  :block/updated-at 1644347324740}
+  :block/created-at 1644347608667,
+  :block/updated-at 1644347608667}
  {:block/name "wed, 2022/02/09",
   :block/created-at 1644364800000,
   :block/updated-at 1644364800000}
@@ -317,47 +317,47 @@
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
  {:block/name "zotero learn",
-  :block/created-at 1644347324740,
-  :block/updated-at 1644347324740}
+  :block/created-at 1644347608669,
+  :block/updated-at 1644347608669}
  {:block/name "zotero-better-bibtex",
-  :block/created-at 1644347324740,
-  :block/updated-at 1644347324740}
+  :block/created-at 1644347608669,
+  :block/updated-at 1644347608669}
  {:block/name "zotero-connectors",
-  :block/created-at 1644347324740,
-  :block/updated-at 1644347324740}
+  :block/created-at 1644347608669,
+  :block/updated-at 1644347608669}
  {:block/name "zotero-mdnotes",
-  :block/created-at 1644347324740,
-  :block/updated-at 1644347324740}
+  :block/created-at 1644347608669,
+  :block/updated-at 1644347608669}
  {:block/name "zotero-scholar-citations",
-  :block/created-at 1644347324740,
-  :block/updated-at 1644347324740}
+  :block/created-at 1644347608669,
+  :block/updated-at 1644347608669}
  {:block/name "zotero-scihub",
-  :block/created-at 1644347324740,
-  :block/updated-at 1644347324740}
+  :block/created-at 1644347608669,
+  :block/updated-at 1644347608669}
  {:block/name "zotero-shortdoi",
-  :block/created-at 1644347324740,
-  :block/updated-at 1644347324740}
+  :block/created-at 1644347608667,
+  :block/updated-at 1644347608667}
  {:block/name "zoteroquicklook",
-  :block/created-at 1644347324740,
-  :block/updated-at 1644347324740}
+  :block/created-at 1644347608667,
+  :block/updated-at 1644347608667}
  {:block/name "zotfile",
-  :block/created-at 1644347324740,
-  :block/updated-at 1644347324740}
+  :block/created-at 1644347608669,
+  :block/updated-at 1644347608669}
  {:block/name "{_now",
   :block/created-at 1644164493226,
   :block/updated-at 1644164493226}
  {:block/name "使用理念",
-  :block/created-at 1644347324740,
-  :block/updated-at 1644347324740}
+  :block/created-at 1644347608669,
+  :block/updated-at 1644347608669}
  {:block/name "其他系统的安装方法",
   :block/created-at 1644164493226,
   :block/updated-at 1644164493226}
  {:block/name "卡片盒笔记法的思考与实践",
   :block/created-at 1644337512871,
-  :block/updated-at 1644347318020}
+  :block/updated-at 1644347606367}
  {:block/name "同步",
-  :block/created-at 1644347324740,
-  :block/updated-at 1644347324740}
+  :block/created-at 1644347608667,
+  :block/updated-at 1644347608667}
  {:block/name "图谱",
   :block/created-at 1644164493226,
   :block/updated-at 1644164493226}
@@ -368,11 +368,11 @@
   :block/created-at 1641967503322,
   :block/updated-at 1641967503322}
  {:block/name "浏览器直接打开pdf",
-  :block/created-at 1644347324740,
-  :block/updated-at 1644347324740}
+  :block/created-at 1644347608669,
+  :block/updated-at 1644347608669}
  {:block/name "网络资源学习",
   :block/created-at 1644337510003,
   :block/updated-at 1644337510003}
  {:block/name "黑暗主题",
-  :block/created-at 1644347324740, 
-  :block/updated-at 1644347324740}]
+  :block/created-at 1644347608669, 
+  :block/updated-at 1644347608669}]
