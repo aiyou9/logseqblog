@@ -2,9 +2,73 @@ type:: blogpost
 alias:: book page
 tags:: typeface
 
-- [[logseq相关资源收集]]
+- 目录
+- 👉P1 logseq是什么？
+	- [GitHub中发布Logseq的release版本](https://github.com/logseq/logseq/releases)
+		- [GitHub release下载加速]()
+		- [Logseq-Web端]()
+		- [Logseq中文社区]()
+- 👉P2 logseq使用准备-基于本地使用
+- 👉P3 logseq使用准备-基于多端同步使用
+	- [GitHub官网](https://github.com/)
+	- [Logseq 系列教程 \| 2.1 开始上手(GitHub同步版)](https://zhuanlan.zhihu.com/p/370564366)
+	- [Logseq-我的上手历程(一):注册与登录](https://zhuanlan.zhihu.com/p/349944337/)
+- 👉P4 logseq使用准备-页面布局及快捷键配置
+- 👉P5 logseq基本用法-帮助文档使用及界面美化
+	- [Logseq小白系列教程入门篇一](https://zhuanlan.zhihu.com/p/343854552)
+	- [logseq帮助文档]()
+- 👉P6 logseq基本用法-编辑模式：大纲加持Markdown
+	- [emoji网址1]()
+	- [emoji网址2]()
+	- [神器中的神器org-mode之入门篇](https://www.cnblogs.com/qlwy/archive/2012/06/15/2551034.html)
+- 👉P7 logseq基本用法-Block块的基本功能
+	- {{bilibili(https://www.bilibili.com/video/BV1bT4y1f71n?zw)}}
+- 👉P8 logseq基本用法-时间管理&文件管理&PDF阅读批注
+	- [OKR + GTD + Note =\> Logseq](https://zhuanlan.zhihu.com/p/369386414)
+	- [Logseq: 现已上线PDF阅读工具](https://zhuanlan.zhihu.com/p/397352305)
+- 👉P9 logseq基本用法-闪卡的制作
+	- [Logseq: 现已加入间隔重复系统(SRS)](https://zhuanlan.zhihu.com/p/392408529)
+- 👉P10 logseq基本用法-查询功能：全文检索&Query引文检索
+  id:: 7d28b422-3ea5-4e75-b51a-ee5f06b92e07
+	- [[Query使用入门]]
+- 👉P11 logseq基本用法-Page与Graph的基本功能
+	- {{bilibili(https://www.bilibili.com/video/BV14q4y1V7Zp?zw)}}
+- 👉P12 logseq基本用法-主题
+	- [[logseq主题]]
+- 👉P12 logseq基本用法-插件
+	- [[logseq插件]]
+- 👉P13 logseq基本用法-图谱
+	- [[图谱]]
+- 👉P13 logseq基本用法-导入与导出
+	- [Logseq小白系列教程入门篇二——二、用 Logseq 阅读UB](https://zhuanlan.zhihu.com/p/405764984)
+- 👉P13 logseq基本用法-发布
+	- [[logseq发布成网页博客]]
+- 👉P14 logseq基本用法-Zotero文献管理集成
+	- [[logseq与pdf]]
+	- {{bilibili(https://www.bilibili.com/video/BV1E3411q7xe?zw)}}
+	- [Logseq: 现已支持Zotero文献协同](https://zhuanlan.zhihu.com/p/395008689)
+	- [Logseq插件资源页面](https://github.com/logseq/awesome-logseq)
+- 👉P15 logseq与其它软件联动
+	- 上游收集软件
+	- [[[WorkFlowy官网]()]]
+	- [[[滴答清单官网]()]]
+	- [[[XMind官网]()]]
+	- [[[印象笔记官网]()]]
+	- [[[Typora官网]()]]
+	- [[PicGo]]
+	- [[Obsidian]]
+	- [[[Calibre]]
+	- [[Bookxnote]]
+	- [[Notepad++]]
+	- [[Anki]]
+	- 同级笔记软件
+	- 下游整理输出软件
+	-
+- 👉P15 logseq与其他软件共库使用
+- 👉P15 logseq构建工作流
+- 👉P16 logseq的使用理念
+	- [[使用理念]]
 -
-- [[logseq部署网页]]
 -
-- [[图谱]]
+-
 -
