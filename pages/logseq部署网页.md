@@ -16,8 +16,9 @@
 			- 1、https://docs.logseq.com/
 			  2、https://note.xuanwo.io/
 			  3、https://pengx17.github.io/knowledge-garden/
+		- 参考教程： https://zhuanlan.zhihu.com/p/344165645
 	-
-- 优先推荐的部署方法：
+- 优先推荐的部署方法3，具体过程如下：
   id:: 61f94db6-d369-4ee3-9226-baf4b45741b7
 	- 1、在github下载logseq-publish action作者 [pengx17](https://github.com/pengx17) 的自己部署的库：https://github.com/pengx17/knowledge-garden （点击链接，点击绿色图标code，选择最后下载zip）
 	- 2、在自己的github，建一个空私有库，同步到本地，把knowledge-garden.zip的文件，解压缩到本地同步下来的github库文件夹，同步到github，检测action是否自动运行（main.yml），并产生了新的分枝：gh-pages，
