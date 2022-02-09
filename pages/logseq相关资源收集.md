@@ -1,0 +1,15 @@
+- 视频教程
+	- 1、小阳读书
+	  知识效率博主 B站Up主:Arya_yang 灵感分享记录在Twitter: @yangyangswift
+		- https://www.xiaohongshu.com/user/profile/5e7c9b9d00000000010077c1
+		- https://space.bilibili.com/16357618/video?tid=188&keyword=&order=pubdate
+	- 2、王树义老师
+	- 天津师范大学副教授，公众号「玉树芝兰」（nkwangshuyi）
+		- https://space.bilibili.com/314022607/channel/collectiondetail?sid=24902
+	- 3、社区线上聚会录播，群主推荐，干货多多
+		- https://space.bilibili.com/375685451?from=search&seid=8375267588516473488&spm_id_from=333.337.0.0
+	- 4、零基础学Logseq——我麋鹿啦丶
+		- https://www.bilibili.com/video/BV1qq4y1k7fN?spm_id_from=333.999.0.0
+		- https://www.bilibili.com/video/BV1jP4y1A7kQ?spm_id_from=333.999.0.0
+	- 5、Logseq从入门到精通——及时春雨
+		- https://www.bilibili.com/video/BV1144y14764

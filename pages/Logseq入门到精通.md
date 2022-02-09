@@ -70,6 +70,7 @@ tags:: typeface
 	-
 - 👉P16 logseq的使用理念
 	- [[使用理念]]
+- [[logseq相关资源收集]]
 -
 -
 -
